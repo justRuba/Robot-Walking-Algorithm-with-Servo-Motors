@@ -13,6 +13,6 @@ INITIALIZE_SERVO_POSITIONS()
     SET_SERVO_ANGLE(right_ankle, NEUTRAL_POSITION)
 ```
 
-*Sets all servo motors to their starting positions*
+### Sets all servo motors to their starting positions
 - NEUTRAL_POSITION for hips and ankles.
 - STRAIGHT_POSITION for knees.
